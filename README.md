@@ -21,3 +21,5 @@ One very important aspect of RPGUI we want to keep in mind is to make it as gene
 for whatever game or system they intend to play.  The intent will be to develop templates for particular systems that can, but do not
 have to be, applied to a session or character to format their data appropriately, but if a template is not available, RPGUI can still
 function with generic data.
+
+Dragons are cool.
